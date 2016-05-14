@@ -6,5 +6,20 @@
             "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/Aku.png"
         }
+        "Mikki": {
+            "size": 40,
+            "type": "image",
+            "url": "https://github.com/Akaruin/DiscordStuff/blob/master/emotepics/Hitler.png"
+        }
+        "Eetu": {
+            "size": 40,
+            "type": "image",
+            "url": "https://github.com/Akaruin/DiscordStuff/blob/master/emotepics/Eetu.png"
+        }
+        "Karri": {
+            "size": 40,
+            "type": "image",
+            "url": "https://github.com/Akaruin/DiscordStuff/blob/master/emotepics/Kaapo.png"
+        }
     }
 }
