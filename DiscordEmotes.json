@@ -2,22 +2,22 @@
     "name": "Akaruin custom emotes",
     "emotes": {
         "Aku": {
-            "size": 32,
+            "size": 28,
             "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Aku.png"
         },
         "Mikki": {
-            "size": 32,
+            "size": 28,
             "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Hitler.png"
         },
         "Eetu": {
-            "size": 32,
+            "size": 28,
             "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Eetu.png"
         },
         "Karri": {
-            "size": 32,
+            "size": 28,
             "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Kaapo.png"
         }
