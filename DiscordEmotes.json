@@ -4,7 +4,7 @@
         "Aku": {
             "size": 20, 
             "steps": 63,
-            "type": "picture",
+            "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/Aku.png"
         }
     }
