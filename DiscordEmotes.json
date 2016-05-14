@@ -9,17 +9,17 @@
         "Mikki": {
             "size": 40,
             "type": "image",
-            "url": "https://github.com/Akaruin/DiscordStuff/blob/master/emotepics/Hitler.png"
+            "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Hitler.png"
         },
         "Eetu": {
             "size": 40,
             "type": "image",
-            "url": "https://github.com/Akaruin/DiscordStuff/blob/master/emotepics/Eetu.png"
+            "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Eetu.png"
         },
         "Karri": {
             "size": 40,
             "type": "image",
-            "url": "https://github.com/Akaruin/DiscordStuff/blob/master/emotepics/Kaapo.png"
+            "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Kaapo.png"
         }
     }
 }
