@@ -2,7 +2,7 @@
     "name": "Akaruin custom emotes",
     "emotes": {
         "Aku": {
-            "size": 100,
+            "size": 40,
             "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/Aku.png"
         }
