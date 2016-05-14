@@ -20,6 +20,16 @@
             "size": 28,
             "type": "image",
             "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Kaapo.png"
+        },
+        "Hy": {
+            "size": 28,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Hy.png"
+        },
+        "Pe": {
+            "size": 28,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/Akaruin/DiscordStuff/master/emotepics/Pe.png"
         }
     }
 }
